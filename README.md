@@ -1,4 +1,4 @@
-# Tabela_de_Preços_exercicio_29_
+# Tabela de Preços exercício 29
 
 Peguei este atividade da lista de exercício de python: https://wiki.python.org.br/EstruturaDeRepeticao
 
